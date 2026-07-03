@@ -40,4 +40,4 @@ high-risk for proactive outreach
 1. Download the CSV from Kaggle (Telco Customer Churn dataset)
 2. Create a schema called `telco_churn` in MySQL Workbench
 3. Import the CSV into a table called `telco_churn`
-4. Run queries in order — each is commented with its business question
+4. Run queries in order - each is commented with its business question
