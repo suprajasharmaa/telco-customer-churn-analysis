@@ -41,3 +41,9 @@ high-risk for proactive outreach
 2. Create a schema called `telco_churn` in MySQL Workbench
 3. Import the CSV into a table called `telco_churn`
 4. Run queries in order - each is commented with its business question
+
+## 📊 Telco Customer Churn Analysis
+
+📄 [Case Study Report](./Telco_Customer_Churn_Analysis.docx) | 🗃️ [SQL Queries](./telco_churn_analysis_queries.sql)
+
+A SQL-based analysis of 7,043 telecom customers to uncover the drivers behind churn — covering tenure, pricing, add-on services, payment behavior, and household stability. Built entirely in MySQL using CASE logic, CTEs, and window functions (RANK, LAG).
