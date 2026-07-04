@@ -1,4 +1,5 @@
-CREATE DATABASE telco_churn;
+CREATE DATABASE IF NOT EXISTS telco_churn;
+USE telco_churn;
 -- Distribution check: how is tenure spread across customers?
 -- Logic: bucket customers into tenure ranges, count how many fall in each bucket
 SELECT
